@@ -1,0 +1,6 @@
+/target/
+/README.md
+.project
+.classpath
+.settings/
+/bin/

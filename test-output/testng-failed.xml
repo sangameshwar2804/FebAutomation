@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [AFSuite]">
+  <listeners>
+    <listener class-name="com.wbl.utility.LoggerListener"/>
+    <listener class-name="com.wbl.utility.CustomReporter"/>
+  </listeners>
+  <test name="AFTest(failed)">
+    <classes>
+      <class name="com.wbl.test.HomePageTest">
+        <methods>
+          <include name="beforeSuite"/>
+          <include name="assertRecText"/>
+          <include name="beforeClass"/>
+          <include name="afterMethod"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- com.wbl.test.HomePageTest -->
+    </classes>
+  </test> <!-- AFTest(failed) -->
+</suite> <!-- Failed suite [AFSuite] -->

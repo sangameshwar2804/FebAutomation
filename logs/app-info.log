@@ -1,0 +1,39 @@
+[INFO ] 2018-05-09 14:43:17.767 [main] WebDriverUtil - In get driver method - browser :chrome
+[INFO ] 2018-05-09 14:43:24.912 [main] LoggerListener - Test Started....
+[INFO ] 2018-05-09 14:43:24.962 [main] LoggerListener - Test 'assertSlides' PASSED
+[INFO ] 2018-05-09 14:43:24.964 [main] LoggerListener - Priority of this method is 1
+[INFO ] 2018-05-09 14:43:24.968 [main] BaseTest - rs test case name after every method:assertSlides
+[INFO ] 2018-05-09 14:43:24.971 [main] LoggerListener - Test Started....
+[INFO ] 2018-05-09 14:43:25.090 [main] LoggerListener - Test 'assertRecText' PASSED
+[INFO ] 2018-05-09 14:43:25.091 [main] LoggerListener - Priority of this method is 2
+[INFO ] 2018-05-09 14:43:25.091 [main] BaseTest - rs test case name after every method:assertRecText
+[INFO ] 2018-05-09 14:43:25.093 [main] LoggerListener - Test Started....
+[INFO ] 2018-05-09 14:43:27.156 [main] LoggerListener - Test 'assertClickRecording' PASSED
+[INFO ] 2018-05-09 14:43:27.156 [main] LoggerListener - Priority of this method is 3
+[INFO ] 2018-05-09 14:43:27.156 [main] BaseTest - rs test case name after every method:assertClickRecording
+[INFO ] 2018-05-09 15:27:06.769 [main] WebDriverUtil - In get driver method - browser :chrome
+[INFO ] 2018-05-09 15:27:12.796 [main] LoggerListener - Test Started....
+[INFO ] 2018-05-09 15:27:12.845 [main] LoggerListener - Test 'assertSlides' PASSED
+[INFO ] 2018-05-09 15:27:12.845 [main] LoggerListener - Priority of this method is 1
+[INFO ] 2018-05-09 15:27:12.846 [main] BaseTest - rs test case name after every method:assertSlides
+[INFO ] 2018-05-09 15:27:12.849 [main] LoggerListener - Test Started....
+[INFO ] 2018-05-09 15:27:12.963 [main] LoggerListener - Test 'assertRecText' PASSED
+[INFO ] 2018-05-09 15:27:12.963 [main] LoggerListener - Priority of this method is 2
+[INFO ] 2018-05-09 15:27:12.964 [main] BaseTest - rs test case name after every method:assertRecText
+[INFO ] 2018-05-09 15:27:12.965 [main] LoggerListener - Test Started....
+[INFO ] 2018-05-09 15:27:15.149 [main] LoggerListener - Test 'assertClickRecording' PASSED
+[INFO ] 2018-05-09 15:27:15.149 [main] LoggerListener - Priority of this method is 3
+[INFO ] 2018-05-09 15:27:15.150 [main] BaseTest - rs test case name after every method:assertClickRecording
+[INFO ] 2018-05-09 15:39:06.128 [main] WebDriverUtil - In get driver method - browser :chrome
+[INFO ] 2018-05-09 15:39:11.341 [main] LoggerListener - Test Started....
+[INFO ] 2018-05-09 15:39:11.374 [main] LoggerListener - Test 'assertSlides' PASSED
+[INFO ] 2018-05-09 15:39:11.374 [main] LoggerListener - Priority of this method is 1
+[INFO ] 2018-05-09 15:39:11.375 [main] BaseTest - rs test case name after every method:assertSlides
+[INFO ] 2018-05-09 15:39:11.377 [main] LoggerListener - Test Started....
+[ERROR] 2018-05-09 15:39:11.509 [main] LoggerListener - Test 'assertRecText' FAILED
+[ERROR] 2018-05-09 15:39:11.509 [main] LoggerListener - Priority of this method is 2
+[INFO ] 2018-05-09 15:39:11.510 [main] BaseTest - rs test case name after every method:assertRecText
+[INFO ] 2018-05-09 15:39:11.859 [main] LoggerListener - Test Started....
+[INFO ] 2018-05-09 15:39:13.968 [main] LoggerListener - Test 'assertClickRecording' PASSED
+[INFO ] 2018-05-09 15:39:13.969 [main] LoggerListener - Priority of this method is 3
+[INFO ] 2018-05-09 15:39:13.969 [main] BaseTest - rs test case name after every method:assertClickRecording
